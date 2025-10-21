@@ -1,4 +1,4 @@
-# sysadmin-labs
+# SysAdmin-M365-Labs
 These labs were designed to strengthen hands-on experience in system administration and Microsoft 365 management. The project is divided into two separate labs with accompanying PDFs.
 Project Overview:
 1. System Administration (Windows Server 2022)
